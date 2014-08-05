@@ -3,6 +3,7 @@
 ?>
 <html>
 <head>
+<!-- put txtweb - app key-->
 <meta name="txtweb-appkey" content=""/>
 </head>
 <body>
